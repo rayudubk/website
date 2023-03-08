@@ -1,4 +1,4 @@
-FROM ubuntu/apache2
+FROM hshar/webapp
 
 WORKDIR /var/www/html/
 
